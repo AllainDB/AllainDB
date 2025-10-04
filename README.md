@@ -1,11 +1,10 @@
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Allain Borno
+Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Allain
 ====================================================================================================================================
 
-Technology and Computer Science Enthusiast
+Technology Enthusiast
 ------------------------------------------
 
-* 🌍  I'm based in Florida
-* ✉️  You can contact me at [allainborno@allainborno.tech](mailto:allainborno@allainborno.tech)
+* 🌍  Florida based
 
 <a href="https://www.twitch.tv/TheOnlyAllain" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/twitch/status/TheOnlyAllain?logo=twitchsx&style=for-the-badge&color=0891b2&labelColor=1c1917&label=TWITCH+STATUS" /></a>
