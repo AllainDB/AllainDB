@@ -1,13 +1,12 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) I'm Allain
 ====================================================================================================================================
 
-SOC Analyst by day · Security tool builder by night
+SOC Analyst · I build things
 ------------------------------------------
 
 * 🌍 Miami, FL
-* 🔭 Currently: SOC Analyst at Kaseya, triaging threats across MSP client environments
-* 🛠️ I build security-adjacent tools for fun and for the portfolio — OSINT, attack surface scanning, data broker exposure
-* 🎓 BS Computer Science, Florida Atlantic University · CompTIA A+, Network+, Security+, CSIS
+* 🔭 Currently: SOC Analyst at an MSP, triaging threats across client environments
+* 🛠️ I build things for fun and for the portfolio — OSINT, attack surface scanning, data broker exposure
 * 🌐 [allainborno.tech](https://allainborno.tech)
 
 ---
